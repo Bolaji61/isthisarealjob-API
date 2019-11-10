@@ -18,5 +18,5 @@
 ## Configuration 
 - Install the packages in requirements.txt file using `pip -r install requirements.txt`
 - Run the app using `python3 app.py`
-- Open an API request Client such as Postman to make a post request using the json format in the API documentation `https://isthisarealjob-api.herokuapp.com/`
+- Open an API request Client such as Postman to make a post request using the json format in the API documentation `https://documenter.getpostman.com/view/9310664/SW14TvyM?version=latest/`
 - Send a POST request to `http://127.0.0.1:5000` to receive a response
